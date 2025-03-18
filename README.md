@@ -7,7 +7,7 @@ https://github.com/AniaSupady/Mark-to-Market-MtM-data-for-energy-contracts-to-tr
 # Explanation of the Code
 
 ## Simulated Prices:
-- We simulate daily prices for oil, gas, and a renewable energy index using a random walk with a slight trend.
+- I simulate daily prices for oil, gas, and a renewable energy index using a random walk with a slight trend.
 - Oil prices start at $70/barrel, gas prices at $3/MMBtu, and renewables at $50.
 
 ## Portfolio Positions:
